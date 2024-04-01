@@ -4,7 +4,7 @@ Welcome to the DevConnect repository! This repository contains the source code f
 
 ## Demo
 
-![Screenshot](demo.gif)
+![Screenshot](screenshot_demo.gif)
 
 ## Introduction
 
